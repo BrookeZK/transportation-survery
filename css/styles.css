@@ -1,0 +1,7 @@
+#work-responses, #fun-responses {
+  display: none;
+}
+
+input[type=checkbox] {
+  margin: 10px;
+}
